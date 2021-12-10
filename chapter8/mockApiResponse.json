@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "紀生",
+            "age": 25,
+            "personalColor": "blue"
+        },
+        {
+            "id": 2,
+            "name": "崎岡",
+            "age": 28,
+            "personalColor": "pink"
+        },
+        {
+            "id": 3,
+            "name": "後藤",
+            "age": 25,
+            "personalColor": "green"
+        }
+    ]
+}
