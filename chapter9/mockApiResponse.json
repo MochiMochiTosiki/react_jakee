@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "望月",
+            "lastname": "紀生",
+            "age": 25
+        },
+        {
+            "id": 2,
+            "firstname": "未来",
+            "lastname": "崎岡",
+            "age": 28
+        },
+        {
+            "id": 3,
+            "firstname": "一郎",
+            "lastname": "後藤",
+            "age": 25
+        }
+    ]
+}
