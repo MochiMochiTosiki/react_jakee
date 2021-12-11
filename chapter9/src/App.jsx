@@ -2,10 +2,7 @@ import { useState } from "react";
 import { useFetchUsers } from "./hooks/useFetchUsers";
 
 export const App = () => {
-  const { userList, onClickFetchUser } = useFetchUsers();
-  console.log(userList);
-  const [isLoading, setIsLoading] = useState(false);
-  const [isError, setIsError] = useState(false);
+  const { userList, isLoading, isError, onClickFetchUser } = useFetchUsers();
 
   return (
     <div>
